@@ -1,0 +1,99 @@
+ul,
+ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+button {
+    cursor: pointer;
+}
+body {
+    font-family: "Roboto", sans-serif; 
+    background-color: #FFFFFF;
+    color: #434455
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+
+.page-logo-web {
+    font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+.page-logo-studio {
+    font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #2e2f42;
+}
+
+.top-menu-item {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.top-menu-item:hover,
+.top-menu-item:focus {
+ color: #404bbf;  
+}
+
+.address-link-top { 
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.address-link-top:hover,
+.address-link-top:focus {
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #404bbf;
+}
+
+.address-link {
+    font-style: normal;
+}
+
+.main-section {
+    background-color: #2e2f42;
+}
+.main-button {
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+background-color:#4d5ae5;;
+}
+
+.main-button:hover,
+.main-button:focus {
+    background: #404bbf;
+}
+
